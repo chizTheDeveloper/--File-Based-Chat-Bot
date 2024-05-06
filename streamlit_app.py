@@ -105,7 +105,7 @@ def main():
         "pdf", "txt"], accept_multiple_files=True)
 
     if uploaded_files and not api_key:
-        st.info("Please add your Anthropic API key to continue.")
+        st.info("Please add your API key to continue.")
 
     if uploaded_files and api_key:
         if 'last_uploaded_files' not in st.session_state or st.session_state.last_uploaded_files != uploaded_files:

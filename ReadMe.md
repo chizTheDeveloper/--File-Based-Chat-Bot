@@ -1,5 +1,5 @@
 # Chima Chat Bot
-
+Live StreamLit App: https://lbqectpctknqodsdvktjze.streamlit.app/
 Chima Chat Bot is a Streamlit application that allows users to upload PDF or TXT documents and interact with a chatbot powered by conversational AI. The chatbot provides responses to user prompts/questions based on the content of the uploaded documents.
 
 ## Setup and Installation
